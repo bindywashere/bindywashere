@@ -1,6 +1,6 @@
 ## hi, my name is bindy💫🌠
 
-<center>![raincats](https://github.com/user-attachments/assets/0f678b1f-0093-4177-be18-b97cb33cc94b)</center>
+![raincats](https://github.com/user-attachments/assets/0f678b1f-0093-4177-be18-b97cb33cc94b)
 
 <!--
 **bindywashere/bindywashere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
