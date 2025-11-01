@@ -1,6 +1,6 @@
-## hi, my name is bindy
+## hi, my name is bindy💫🌠
 
-[https://github.com/refact0r/system24/blob/main/assets/cats.gif]
+![raincats]([https://github.com/user-attachments/assets/4aa31ec1-bdd3-4058-9cc4-223a3c55be18](https://github.com/refact0r/system24/blob/main/assets/cats.gif))
 
 <!--
 **bindywashere/bindywashere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
